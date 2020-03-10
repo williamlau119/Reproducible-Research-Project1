@@ -1,7 +1,7 @@
 ---
 title: "Reproducible Research - Week Two"
-author: "merkasaur"
-date: "2/19/2020"
+author: "Junxuan Liu"
+date: "3/10/2020"
 output:
   html_document: default
   pdf_document: default
